@@ -6,6 +6,8 @@
 
 A collection of free synth presets, effect patches, and plugin recreations for Vital, FL Studio's Patcher, PlugData, Dexed / DX7, and LinPlug Alpha 3. Aquatic, ambient, and dubby sounds throughout.
 
+# DOWNLOAD: https://github.com/aquanodemusic/aquanode-soundscapes/archive/refs/heads/main.zip
+
 ### I made all these presets, patches and plugins here 100% myself for the listed third-party programs. Many of the patches and plugins listed here can be considered obsolete as I turned them into real VSTs I offer in my other repository, but these VSTs are made with AI so if you want to stay 100% human-made then this repo here is for you.
 
 🌊 [bandcamp](https://aquanode.bandcamp.com) · [youtube](https://www.youtube.com/@aquanodemusic)
