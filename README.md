@@ -10,6 +10,8 @@ A collection of free synth presets, effect patches, and plugin recreations for V
 
 ### I made all these presets, patches and plugins here 100% myself for the listed third-party programs. Many of the patches and plugins listed here can be considered obsolete as I turned them into real VSTs I offer in my other repository, but these VSTs are made with AI so if you want to stay 100% human-made then this repo here is for you.
 
+If you want to support me, which I'd highly appreciate but you don't have to, then feel free to leave me a tip for my music on [bandcamp](https://aquanode.bandcamp.com), my songs are all free too!
+
 🌊 [bandcamp](https://aquanode.bandcamp.com) · [youtube](https://www.youtube.com/@aquanodemusic)
 
 ## What's Included
