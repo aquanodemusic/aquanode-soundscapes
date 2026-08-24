@@ -1,0 +1,19 @@
+AutoMorph Partials EQ is a simple EQ with which you can dial in the frequency of a note and then
+either attenuate or amplify up to 14 of its partials (harmonics), where the volume change for the 1st
+partial can controlled individually. It is simple, since it does not snap to notes (you can continuously
+increase or decrease the frequency) and it is static (you'd have to automate the frequency knob
+if you want it to follow a note progression). Nonetheless it is a unique "EQ Exciter" kind of effect, 
+and also has a pseudo-randomization knob for interesting volume change of the partials.
+
+Controls:
+- Volume: Controls the volume of the partials. They roll off a little by default except at 100% volume.
+- Frequency: To manually dial in the frequency (note) of the playing sound.
+- 1st Partial: Control the volume of the fundamental note. This overwrites the setting of the volume,
+	       however changing the volume will also change the 1st partial note so you have to turn
+	       the 1st Partial knob a little again after changing the volume if you want to keep the
+	       1st Partial at a different volume.
+- Width: The bandwidth of all the EQ bands. Since high bandwidth values overlap quickly, Partials EQ
+         has a built-in Limiter at the end of its signal chain to avoid extremely loud volumes.
+- RandAmp: Turning this knob will pseudo-randomly change the volume of each of the partials (except the
+  	   root / 1st partial). Automating this knob can also sound interesting (right-click -> create 
+	   automation clip).

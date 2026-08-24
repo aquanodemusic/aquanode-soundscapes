@@ -1,0 +1,11 @@
+Pitch Colorizer by Aquanode
+
+Pitch Colorizer is a simple remake of Pitch Colorization tools like Pitchmap from Zynaptiq.
+This FL Studio Patcher Plugin works by chaining many Fruity Parametric EQ 2s in parallel such that
+over all accessible octaves all note frequencies that are in key are increased by 24 dB and
+all notes not in key are reduced in volume by 24 dB.
+
+This is a small "proof of concept" that you can achieve similar sounding results to much more
+sophisticated programs only using a couple of EQs with very narrow peak bands.
+The routing inside FL Studio's Patcher might look a little complicated since I automated EQ band access
+a little, but in its core it is a simple patch.

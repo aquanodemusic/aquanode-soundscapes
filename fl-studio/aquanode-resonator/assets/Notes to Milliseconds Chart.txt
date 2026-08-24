@@ -1,0 +1,98 @@
+A list of Notes, their frequencies (by basing on A4 = 440 Hz) and conversion into milliseconds.
+
+Note: C 1, Frequency: 32.703 Hz, Time: 30.5780515 ms
+Note: C#1, Frequency: 34.648 Hz, Time: 28.8618373 ms
+Note: D 1, Frequency: 36.708 Hz, Time: 27.2419469 ms
+Note: D#1, Frequency: 38.891 Hz, Time: 25.7129739 ms
+Note: E 1, Frequency: 41.203 Hz, Time: 24.2698155 ms
+Note: F 1, Frequency: 43.654 Hz, Time: 22.9076555 ms
+Note: F#1, Frequency: 46.249 Hz, Time: 21.6219475 ms
+Note: G 1, Frequency: 48.999 Hz, Time: 20.4084009 ms
+Note: G#1, Frequency: 51.913 Hz, Time: 19.2629654 ms
+Note: A 1, Frequency: 55.000 Hz, Time: 18.1818182 ms
+Note: A#1, Frequency: 58.270 Hz, Time: 17.1613511 ms
+Note: B 1, Frequency: 61.735 Hz, Time: 16.1981585 ms
+Note: C 2, Frequency: 65.406 Hz, Time: 15.2890257 ms
+Note: C#2, Frequency: 69.296 Hz, Time: 14.4309187 ms
+Note: D 2, Frequency: 73.416 Hz, Time: 13.6209734 ms
+Note: D#2, Frequency: 77.782 Hz, Time: 12.8564869 ms
+Note: E 2, Frequency: 82.407 Hz, Time: 12.1349078 ms
+Note: F 2, Frequency: 87.307 Hz, Time: 11.4538277 ms
+Note: F#2, Frequency: 92.499 Hz, Time: 10.8109738 ms
+Note: G 2, Frequency: 97.999 Hz, Time: 10.2042004 ms
+Note: G#2, Frequency: 103.826 Hz, Time: 9.6314827 ms
+Note: A 2, Frequency: 110.000 Hz, Time: 9.0909091 ms
+Note: A#2, Frequency: 116.541 Hz, Time: 8.5806756 ms
+Note: B 2, Frequency: 123.471 Hz, Time: 8.0990793 ms
+Note: C 3, Frequency: 130.813 Hz, Time: 7.6445129 ms
+Note: C#3, Frequency: 138.591 Hz, Time: 7.2154593 ms
+Note: D 3, Frequency: 146.832 Hz, Time: 6.8104867 ms
+Note: D#3, Frequency: 155.563 Hz, Time: 6.4282435 ms
+Note: E 3, Frequency: 164.814 Hz, Time: 6.0674539 ms
+Note: F 3, Frequency: 174.614 Hz, Time: 5.7269139 ms
+Note: F#3, Frequency: 184.997 Hz, Time: 5.4054869 ms
+Note: G 3, Frequency: 195.998 Hz, Time: 5.1021002 ms
+Note: G#3, Frequency: 207.652 Hz, Time: 4.8157413 ms
+Note: A 3, Frequency: 220.000 Hz, Time: 4.5454545 ms
+Note: A#3, Frequency: 233.082 Hz, Time: 4.2903378 ms
+Note: B 3, Frequency: 246.942 Hz, Time: 4.0495396 ms
+Note: C 4, Frequency: 261.626 Hz, Time: 3.8222564 ms
+Note: C#4, Frequency: 277.183 Hz, Time: 3.6077297 ms
+Note: D 4, Frequency: 293.665 Hz, Time: 3.4052434 ms
+Note: D#4, Frequency: 311.127 Hz, Time: 3.2141217 ms
+Note: E 4, Frequency: 329.628 Hz, Time: 3.0337269 ms
+Note: F 4, Frequency: 349.228 Hz, Time: 2.8634569 ms
+Note: F#4, Frequency: 369.994 Hz, Time: 2.7027434 ms
+Note: G 4, Frequency: 391.995 Hz, Time: 2.5510501 ms
+Note: G#4, Frequency: 415.305 Hz, Time: 2.4078707 ms
+Note: A 4, Frequency: 440.000 Hz, Time: 2.2727273 ms
+Note: A#4, Frequency: 466.164 Hz, Time: 2.1451689 ms
+Note: B 4, Frequency: 493.883 Hz, Time: 2.0247698 ms
+Note: C 5, Frequency: 523.251 Hz, Time: 1.9111282 ms
+Note: C#5, Frequency: 554.365 Hz, Time: 1.8038648 ms
+Note: D 5, Frequency: 587.330 Hz, Time: 1.7026217 ms
+Note: D#5, Frequency: 622.254 Hz, Time: 1.6070609 ms
+Note: E 5, Frequency: 659.255 Hz, Time: 1.5168635 ms
+Note: F 5, Frequency: 698.456 Hz, Time: 1.4317285 ms
+Note: F#5, Frequency: 739.989 Hz, Time: 1.3513717 ms
+Note: G 5, Frequency: 783.991 Hz, Time: 1.2755251 ms
+Note: G#5, Frequency: 830.609 Hz, Time: 1.2039353 ms
+Note: A 5, Frequency: 880.000 Hz, Time: 1.1363636 ms
+Note: A#5, Frequency: 932.328 Hz, Time: 1.0725844 ms
+Note: B 5, Frequency: 987.767 Hz, Time: 1.0123849 ms
+Note: C 6, Frequency: 1046.502 Hz, Time: 0.9555641 ms
+Note: C#6, Frequency: 1108.731 Hz, Time: 0.9019324 ms
+Note: D 6, Frequency: 1174.659 Hz, Time: 0.8513108 ms
+Note: D#6, Frequency: 1244.508 Hz, Time: 0.8035304 ms
+Note: E 6, Frequency: 1318.510 Hz, Time: 0.7584317 ms
+Note: F 6, Frequency: 1396.913 Hz, Time: 0.7158642 ms
+Note: F#6, Frequency: 1479.978 Hz, Time: 0.6756859 ms
+Note: G 6, Frequency: 1567.982 Hz, Time: 0.6377625 ms
+Note: G#6, Frequency: 1661.219 Hz, Time: 0.6019677 ms
+Note: A 6, Frequency: 1760.000 Hz, Time: 0.5681818 ms
+Note: A#6, Frequency: 1864.655 Hz, Time: 0.5362922 ms
+Note: B 6, Frequency: 1975.533 Hz, Time: 0.5061925 ms
+Note: C 7, Frequency: 2093.005 Hz, Time: 0.4777821 ms
+Note: C#7, Frequency: 2217.461 Hz, Time: 0.4509662 ms
+Note: D 7, Frequency: 2349.318 Hz, Time: 0.4256554 ms
+Note: D#7, Frequency: 2489.016 Hz, Time: 0.4017652 ms
+Note: E 7, Frequency: 2637.020 Hz, Time: 0.3792159 ms
+Note: F 7, Frequency: 2793.826 Hz, Time: 0.3579321 ms
+Note: F#7, Frequency: 2959.955 Hz, Time: 0.3378429 ms
+Note: G 7, Frequency: 3135.963 Hz, Time: 0.3188813 ms
+Note: G#7, Frequency: 3322.438 Hz, Time: 0.3009838 ms
+Note: A 7, Frequency: 3520.000 Hz, Time: 0.2840909 ms
+Note: A#7, Frequency: 3729.310 Hz, Time: 0.2681461 ms
+Note: B 7, Frequency: 3951.066 Hz, Time: 0.2530962 ms
+Note: C 8, Frequency: 4186.009 Hz, Time: 0.2388910 ms
+Note: C#8, Frequency: 4434.922 Hz, Time: 0.2254831 ms
+Note: D 8, Frequency: 4698.636 Hz, Time: 0.2128277 ms
+Note: D#8, Frequency: 4978.032 Hz, Time: 0.2008826 ms
+Note: E 8, Frequency: 5274.041 Hz, Time: 0.1896079 ms
+Note: F 8, Frequency: 5587.652 Hz, Time: 0.1789661 ms
+Note: F#8, Frequency: 5919.911 Hz, Time: 0.1689215 ms
+Note: G 8, Frequency: 6271.927 Hz, Time: 0.1594406 ms
+Note: G#8, Frequency: 6644.875 Hz, Time: 0.1504919 ms
+Note: A 8, Frequency: 7040.000 Hz, Time: 0.1420455 ms
+Note: A#8, Frequency: 7458.620 Hz, Time: 0.1340731 ms
+Note: B 8, Frequency: 7902.133 Hz, Time: 0.1265481 ms

@@ -1,0 +1,21 @@
+///////// AutoMorph Sweep EQ 
+//// 3 or 6 Band Filter Sweep Automation Preset for FL Studio's Patcher
+// by Aquanode (aquanode.bandcamp.com, aquanode.gumroad.com)
+
+AutoMorph Sweep EQ is an automatic Morph EQ with three bands which continuously morphs
+between two assignable Fruity Parametric EQ 2 Filter Settings.
+It comes in two versions, one where only 3 filter bands are active (lower CPU usage)
+and one where you can use 6 bands at once (to have nice visuals when opening the Parametric EQ GUI).
+
+How to use:
+Activate Button enables or disables the selected Band's Filter Sweeping.
+Vol Start and Vol End control the volume range between which is oscillated (i.e. y-Axis).
+Freq Start and Freq End control the frequency range between which is oscillated (i.e. x-Axis).
+Morph Speed controls the oscillating speed between the two Filter States.
+
+Good to know:
+If Vol or Freq Start is bigger than Vol or Freq End, the oscillation swaps direction.
+For example: 
+While for Vol 1 Start < Vol 1 End the Volume goes up, then for
+Vol 2 Start > Vol 2 End the Volume goes down simultaneously and vice versa.
+

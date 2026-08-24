@@ -10,7 +10,7 @@ The newest Version 5 also contains fine pitch sliders, a panning knob for all re
 
 🎥 See it in action: https://www.youtube.com/watch?v=gm1T1AIoMyA
 
-> **Note:** This resonator is a patch for FL Studio only. I also offer a real VST3 resonator plugin!
+> **Note:** This resonator is a patch for FL Studio only. I also offer a real VST3 resonator plugin in my *Aquanode Plugins* Bundle.
 
 ## Requirements
 
@@ -108,7 +108,7 @@ if((a>=0.999 and a<=1.000), 0.2001953125,
 </details>
 
 <details>
-<summary><strong>Notes → Milliseconds conversion chart</strong></summary>
+<summary><strong>Notes to Milliseconds conversion chart</strong></summary>
 
 A list of notes, their frequencies (based on A4 = 440 Hz), and their conversion into milliseconds — used to tune the Flanger delay times to musical pitches.
 

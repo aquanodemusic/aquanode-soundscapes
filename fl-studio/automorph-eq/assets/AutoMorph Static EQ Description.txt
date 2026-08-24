@@ -1,0 +1,15 @@
+/////////// AutoMorph Static EQ
+//// by Aquanode (aquanode.bandcamp.com, aquanode.gumroad.com or aquanode on youtube)
+
+Static EQ is a "static" version (but with option to have a global LFO) of my AutoMorph Sweep EQ preset
+from this preset pack. With it you have more control over the morphing position or "phase", i.e. you can
+freely set the transition slice between the two start and stop positions of the EQ bands, a little like the
+wave frame of a wavetable, you want to be in. This can also be automated with the "LFO Pos" in the "Global"
+Tab at the top row of the preset. Unlike AutoMorph Sweep EQ, the LFO is synchronised with all morph position
+knobs, i.e. when LFO Pos is activated, all Morph Position Knobs go from 0 to 1 and back with the same speed.
+In the Sweep EQ the knobs move arbitrarily fast independently of the others.
+
+Additionally you can find in the Global Tab a knob for controlling all Band Widths.
+I highly recommend going into the Map Routing Tab and opening the Parametric EQ to see the effects!
+
+All other knobs and sliders behave like Sweep EQ.

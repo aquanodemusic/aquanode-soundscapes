@@ -27,4 +27,4 @@ The `.syx` files can be imported into the free [dexed](https://asb2m10.github.io
 - Plogue OPS7
 - a real DX7 if you have one!
 
-Have fun with the presets! — Aquanode
+Have fun with the presets and thanks for downloading them! - Aquanode

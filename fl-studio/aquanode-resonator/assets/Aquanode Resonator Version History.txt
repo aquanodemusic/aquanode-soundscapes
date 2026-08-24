@@ -1,0 +1,56 @@
+Aquanode Resonators: 
+Replicating the Ableton Resonators / Rezonator by Xynth Audio Effect Plugins
+by adapting the Fruity Flanger Resonator Setting by Nucleon / Youlean.
+
+My version also allows individual inverting, decay time and stereo width setting per Reso-
+nator, which the other versions only allow globally for all Resonators.
+
+All versions below V5 should work in the Producer Version of FL Studio.
+Version 3 requires at least FL Studio 24, for Version 2.2 or below
+FL Studio Version 21 or maybe even lower should be fine.
+Version 5 requires the Pitch Shifter in FL Studio (part of the All Plugins Bundle Version).
+
+Version 1:
+Crude Experimental Version, trying to get a single closed form solution
+for converting Knob Values of the Resonators to Note Millisecond values
+in the Flanger using Rounding Functions or Exponential Functions since
+the Ratio between two notes in 12 note equal Temperament should be the same.
+This version is not exact enough though, since the Fruity Flanger has limited 
+millisecond precision - not all millisecond values are accessible in the 
+Fruity Flanger Millisecond Delay knob precision.
+
+Version 2.1:
+The simplest "accurate" Version, only the Resonators and EQ in Version 2.1 for low CPU usage.
+
+Version 2.2:
+Version 2.1 + added Multi FX unit (Delay, Reverb, Chorus, Flanger, Phaser).
+
+Version 3:
+Added Stereorizers to emulate Resonator Width Control from Ableton's Resonators.
+Relatively high CPU usage but "the full package".
+
+Version 4.1:
+Added Panning Knobs for all Resonators and a "through" knob, that defines how much of the 
+Incoming Audio Signals go through the Resonators. This is different from the Volume or
+Damping knobs, since turning down Through while the Resonators are still resonating
+means that no new signals reaches them but they still resonate out instead of getting quiet 
+(which would be the case when turning down the Volume knob).
+
+Version 4.2:
+Added Dry Knob since the Through Knob blocks the Dry Signal when turned off. With the Dry
+Knob, the Wet Signal is now independent. With this you can freely stop the dry and wet signal
+from coming through individually.
+
+Version 5:
+Added Fine Pitch Sliders to detune the Resonators slightly up to 1 semitone up or down.
+For simplicity I used FL Studio's Pitch Shifter for this since doing this in the Flanger
+Plugin itself (which generates the Resonator sound) would in my understanding require me
+to set up another huge formula for limiting the range of detuning depending on the Resonator
+Note setting. The reason for this is that the Fruity Formula Controllers do not remember
+relative settings. Since I got some space in the GUI after adding the Sliders I added
+a frequency shifter effect knob, which sounds especially nice with Reverb on.
+The Pitch Shifter might introduce some artifacts in the sound though.
+
+2024, designed by Aquanode using stock FL Studio Effects and the General idea from
+Nucleon / Youlean from the Resonator Patcher Preset, which relies on MIDI Out Channels
+unlike my 'standalone' Version.

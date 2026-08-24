@@ -1,0 +1,39 @@
+/////////////// AutoMorph Chord EQ
+////////// Chromatic Scale Note Frequency Amplifier / Attenuator
+///// by Aquanode (aquanode.bandcamp.com / aquanode.gumroad.com)
+
+AutoMorph Chord EQ is a FL Studio Patcher preset that uses FL Studio's Parametric EQ 2
+with bands tuned to notes of a chromatic scale in order to amplify or attenuate this note's volume.
+For it to work you need a signal in which this note is already present, e.g. white noise.
+This effect is especially useful for making chords out of ambient noise to create atmospheric soundscapes.
+Alternatively you can of course use it for taming harsh frequencies.
+
+This preset comes in 2 versions, one without randomizer (which is also the basis of AutoMorph PitchControl EQ from this pack),
+and one where the Note Pitch Knobs are routed to randomizer LFOs for even more modulation capabilities.
+
+I also recommend to use this preset a couple of times in the mixer track if you for example 
+want to change the same note volume over many octaves (e.g. one preset for C2 and another for C3).
+
+How to use:
+Drag and Drop the .fst file into a mixer track and it opens automatically.
+When you open it you should see three tabs:
+	1. Map 		This is the internal routing for making the preset. (You can ignore it)
+	2. Main		This is the main panel where you find 3 knobs for each chromatic note.
+			- The C1 to C9 (or any other note) knob sets a EQ band to this note's frequency.
+			- The volume knob is set at 50% by default, which corresponds to 0dB change.
+			  Turn the volume knob down to 0% for -12 dB, turn it up to 100% for +12 dB change.
+			- The width knob controls the band's width, at 0% you get sharp spikes and for higher
+			  amounts the band still peaks at the note's frequency but also changes neighboring
+			  frequencies towards the volume of the volume you have set for this note.
+			- Since I use two Parametric EQs (one for C D E F G A B and one for C# D# F# G# A#),
+			  there is also a button "Wet Only" with which you can invert the phase of one of the
+			  EQs output. Ideally this should cancel out all or most original sound, keeping only your changes.
+	3. Global	Here you can set the note octave, volume and band width for all notes at the same time.
+			This overwrites the current settings you made in the main tab!
+	4. Randomizer	This tab is only available in the Chord EQ with Randomizer version (to keep the regular Chord EQ
+			more simple to use and compatible with the PitchControl EQ). In it you can set randomizing speeds
+			for each note's octaves and choose at which octave the randomizer starts and ends.
+			There also is a global Arp/Random Knob, which you can turn down for turning the randomizing
+			into arpeggiator-like sweeps up or down the octaves.
+			
+I hope it is useful, thanks for trying it out!

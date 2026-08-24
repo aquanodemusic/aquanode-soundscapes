@@ -1,0 +1,17 @@
+///////// AutoMorph Play EQ 
+//// Midi Note Controllable Bandpass Equalizer Preset for FL Studio's Patcher
+// by Aquanode (aquanode.bandcamp.com, aquanode.gumroad.com)
+
+With AutoMorph Play EQ you can play bandpass filters tuned to note frequencies with your Midi Keyboard as if the EQ was a synthesizer. 
+For this you need a sound source that is already playing (e.g. your track in song mode) on some mixer track where you want to put Play EQ. 
+For playing the EQ you need to go to to your synth tracks and open FL Studio's "MIDI Out" synth, which then automatically controls the EQ,
+since Play EQ is set to receive Midi notes from Midi Channel 0 (the default in MIDI Out). 
+You can play all notes from C1 to B9 without polyphony limit and the bands are velocity sensitive (if you have a Midi Keyboard that has that function).
+
+Parameters:
+- Attack: Sets the time it takes for the EQ note to reach peak velocity.
+- Release: Sets the time it takes for the EQ to turn back to 0dB after releasing a key.
+- Bandwidth: Sets the bandwidth of the bandpass filter centered around a note's pitch. For higher bandwidths I recommend the +12dB setting.
+- +12dB / +24dB: Sets the highest possible velocity amplification to either +12 or +24dB when a key is pressed with 100% velocity.
+- Wet Only: If Wet Only is activated, the original input sound is turned off by phase cancelling it with an inverted copy of the changed signal.
+            This will only let the changed frequencies corresponding to the pressed notes through.

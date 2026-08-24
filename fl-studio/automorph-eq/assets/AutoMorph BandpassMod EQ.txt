@@ -1,0 +1,41 @@
+/////////////// AutoMorph BandpassMod EQ
+////////// Automated EQ Bandpass Modulator Preset for FL Studio 
+///// by Aquanode (aquanode.bandcamp.com / aquanode.gumroad.com)
+
+AutoMorph BandpassMod EQ is a Bandpass Modulation Effect for evolving pads inspired by the
+Random and Modulation Filters from the Korg Triton Workstation Synthesizer.
+
+What it does:
+It uses a Bandpass Filter from an EQ and modulates its spectral / frequency position. It can either 
+jump to a different frequency band directly after a short pause, move to it quickly or a combination of both,
+i.e. it moves a bit and then jumps (which can be controlled in the "skew" section of my plugin).
+
+How to use:
+Drag and Drop the .fst file into a mixer track and it opens and affects the sound automatically.
+Alternatively, open the preset directory of FL Studio and paste the file there, it will then
+automatically appear under your installed Effects.
+
+Description of the parameters:
+Vol Dry: 			How much unaltered signal should be audible.
+Vol Wet: 			How much altered signal should be audible.
+Bandpass Settings - Low Limit: 	Lower Limit of possible frequency positions. The bandpass peak cannot fall below the set value.
+Bandpass Settings - High Limit:	Higher frequency limit. If it is set to a smaller value than the lower limit, their roles swap.
+Bandpass Settings - Fine:	Fine Control, shrinks the frequency jumping interval on both ends and keeps a smaller interval in the middle. 
+				Example: If Low Limit = 1000 Hz, High Limit 2000 Hz and Fine = 50% then it can only jump from 1250 to 1750 Hz.
+Bandpass Settings - Speed:	How much time it takes until the bandpass jumps to another (random) value.
+Bandpass Settings - Mod Type:	Default is Random Jumps at 100% knob value, can also be sine curves or similar.
+Bandpass Settings - Bandwidth:	The frequency width of the bandpass filter.
+Bandpass Settings - Strength:	The strength of the bandpass filter (does not affect the sound very much).
+FX - Dist:			Distortion to the bandpassed signal.
+FX - Delay Speed:		Changes the speed of the Delay (if activated).
+FX - Delay Vol:			Activates a Delay if >0% and sets its volume.
+FX - Reverb:			Adds Reverb after the Delayed Signal.
+Modulation - Autopan:		Sets if the bandpassed signal should be panned in the stereo field randomly and to what strength.
+Modulation - Skew Type:		Sets the type of the modulation, it basically adds another Bandpass Modulation on top to get more interesting 
+				behaviour. For example: If the Bandpass is moving as a sine wave through the frequency spectrum, you can add
+				another quieter sine wave at a higher frequency with the skewness knobs, that gets added to the original one.
+Modulation - Skew Speed:	Sets how fast the bandpass frequency gets skewed between jumps.
+Modulation - Skew Amt:		Sets if the bandpass should move / be skewed between jumps and how much (if >0). This smoothes the Bandpass jumps
+				and sounds somewhat smooth. You can almost get "water bubble" sound effects from this.
+
+I hope it is useful, thanks for trying it out!

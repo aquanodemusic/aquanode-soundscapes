@@ -29,6 +29,9 @@ If you want Vital to recognize the presets in its menu automatically:
 2. Copy the `Aquanode Soundscapes` folder there as-is (or make a new folder, e.g. "Aquanode Presets", containing a `Presets` subfolder with the `.vital` files).
 3. The final path should look like: `Documents\Vital\<Folder Title>\Presets\<Subfolders>\<preset>.vital`.
 
-Alternatively, double-click any `.vital` file and Vital opens automatically in standalone mode. Inside a DAW, open Vital, press the three bars at the top middle, and select **Open External Preset**.
+Alternatively, click twice on any `.vital` file and Vital opens automatically in standalone mode. Inside a DAW, open Vital, press the three bars at the top middle, and select **Open External Preset**.
+
+There *might* be one or two presets that sound close to those of different preset packs,
+this could be the case that I tried to remake them from video tutorials for example.
 
 Have fun with the presets, I hope you like some of them! - Aquanode

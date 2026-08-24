@@ -1,0 +1,39 @@
+D3lt4 Creative Polarity Inverter by Aquanode (aquanode.bandcamp.com, aquanode.gumroad.com)
+
+D3lt4 ("Delta") is a Polarity Inversion / Phase Cancellation Preset for FL Studio's Patcher
+Environment inspired by the "Delta" Option in the EQ plugins by oeksound (e.g. Soothe2).
+You can do this sort of effect in many ways in FL Studio, but D3lt4 is a very straightforward
+way to get this effect and might be the simplest way (in contrast to mixer send track routing).
+
+D3lt4 linearly inverts the Polarity of a dry signal (one without effects) which is
+routed in parallel to a wet signal (one where you can add your effect plugins, however you like).
+This enables you to hear only the changes you introduce into a sound by your effects, no matter
+if your effect (or effect chain) comes with a Dry/Wet Option or not.
+
+For example, you can use an Equalizer with a narrow peak band added and then only hear that
+peak with D3lt4 turned on, whereas you would still hear the original sound with a louder peak
+without D3lt4. Thus, D3lt4 is very useful for sound design where EQs, spectral EQs, Phasers, Chorus,
+Flangers, Granular Fx, Random FX, Pitch Shifters, Compressors and so on are used to hear only
+the differences between affected and unaffected sound. Delays and Reverbs usually have the features
+that D3lt4 is capable of already built in, but they can rarely be routed arbitrarily like D3lt4.
+
+D3lt4 comes in two versions which only have a simple difference but that might be relevant 
+depending on the type of effect you use:
+- the PASSIVE version is the one you usually need. 
+- the ACTIVE version needs your effect to have a 0% dry value option. This usually would mean that
+  you do not need D3lt4 since the plugin already has something like polarity cancelling built in, 
+  but as you can see in my Preset Project D3lt4 then still is able to keep polarity cancelling during
+  fade in and fade outs of your effect (e.g. a Reverb Tail that would otherwise get cut off).
+
+By default D3lt4 is loaded with my own bandpass modulator preset you can also find on my gumroad page.
+
+How to use:
+- Add D3lt4 (PASSIVE version) to a mixer track. 
+- Dial in amount of polarity cancellation and FX volume you want.
+- Go to the mapping tab and find the "FX PATCHER" Object. Here you can design your own FX chains
+  including all FL Studio Plugins as well as the VSTs you use using the node based structure provided
+  by FL Studio's patcher. You can drag and drop FX Vsts you already have in the mixer track into the
+  Patcher environment by right clicking on the vst, hover over "save preset as", then click/drag/drop.
+
+Thank you for using my preset, I hope this makes things easier for you!
+

@@ -1,0 +1,19 @@
+/////////////// AutoMorph PitchControl EQ
+////////// Multi-Octave Note Frequency Amplifier / Attenuator
+///// by Aquanode (aquanode.bandcamp.com / aquanode.gumroad.com)
+
+PitchControl EQ is a FL Studio Patcher preset that uses 9 parallel AutoMorph Chord EQ presets 
+to generate the typical colorbass "note colorization" effect. On top of that it can not only amplify
+frequencies corresponding to a note played over 9 octaves, but also attenuate them, making interesting phasing effects.
+
+I recommend to use this preset in "Wet Only" mode to hear its effect better, but to let a little of the original
+signal through as well you can turn down the wet in the FL Studio mixer track controls outside of the preset.
+
+How to use:
+Drag and Drop the .fst file into a mixer track and it opens automatically.
+When you open it you should see a couple of knobs placed like the 12 notes of a keyboard, labelled accordingly.
+Each knob will either turn down or increase frequencies corresponding to its note (or do no change at all when set to 50%).
+For example, turning the C knob to +12dB will increase the frequencies corresponding to a C1, C2, C3, C4, C5, C6, C7, C8 and C9
+by 12dB.
+			
+I hope it is useful, thanks for trying it out!

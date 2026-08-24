@@ -1,0 +1,49 @@
+/////////////// AutoMorph LFO EQ
+////////// Automated EQ Morphing Preset for FL Studio 
+///// by Aquanode (aquanode.bandcamp.com / aquanode.gumroad.com)
+
+AutoMorph EQ by Aquanode is a three-band Morphing EQ Preset for 
+FL Studio's Patcher inspired by Morphing EQ Plugins like
+Morph EQ from Minimal Audio and the Z-Plane Filters from E-MU Samplers.
+It is able to generate many different effects from smooth, slow filter sweeps
+to Filter FM sounds when using very fast LFO speeds. 
+
+How to use:
+Drag and Drop the .fst file into a mixer track and it opens automatically.
+When you open it you should see four tabs:
+	1. Map 		This is the routing for making the preset.
+	2. Internal 	These are knobs being automated which are linked to the EQ band parameters.
+			They should not be used for setting up the EQ since they get overwritten
+			constantly by the automations.
+	3. Settings	This is the main tab where you can play with the knobs, buttons and sliders.
+	4. Randomize	This is a pseudo-randomizer for generating presets.
+
+Description of the parameters:
+------ Internal Tab
+Band Volumes and Band Frequencies are directly linked to FL Studio's Fruity Parametric EQ 2. 
+They visualize the current state of the automated EQ bands.
+
+------ Settings Tab
+All Knobs and Sliders are linked to Fruity Peak Controllers controlling volumes and frequencies
+of the three bands from the Fruity Parametric EQ 2.
+Vol Base:	Determines where the baseline for the volume change is.
+		Setting it to 0% will enable a dB range of -12 to + 12 to the incoming signal.
+		Higher values will decrease the range of available dB change.
+Vol Depth:	Determines how much of the available dB change range will be used.
+Freq Base:	Like Vol Base but for the frequency range.
+Freq Depth:	Like Vol Depth but for the frequency change.
+Activate Band:	(De)Activates the automation for the band. Is linked to the Parametric EQ directly.
+Vol LFO Type:	Changes the LFO type for the volume range. E.g. sine wave, triangle, noise, ...
+Vol LFO Speed:	Sets the length for one LFO cycle.
+Freq LFO Type:	Changes the LFO type for the frequency range.
+Freq LFO Speed: Like Vol LFO Speed but for the frequency.
+
+------ Randomize Tab
+Randomize: 	A modulo function in a Fruity Formula Controller generates a pseudo-random number
+		that forms the input for all LFO Types and Speeds. Basically this provides a couple
+		hundred presets, since the random numbers for a given knob position are fixed.
+Speed Multiply:	Since the randomized LFO speeds can get very fast (such that Filter FM sounds get
+		noticeable), decreasing this knob value will uniformly slow down all automations 
+		relative to what their values are.	
+			
+I hope it is useful, thanks for trying it out!

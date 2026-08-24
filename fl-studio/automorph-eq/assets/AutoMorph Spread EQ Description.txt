@@ -1,0 +1,11 @@
+///////// AutoMorph Spread EQ 
+//// 7 Band Filter Peak Spreader Preset for FL Studio's Patcher
+// by Aquanode (aquanode.bandcamp.com, aquanode.gumroad.com)
+
+AutoMorph Spread EQ is a Phaser-like Preset with equidistant Peak Spreading Function.
+
+How to use:
+Volume:		Defines the peak volume of the bands (-12 to +12 dB).
+Center Freq.:	Defines the center frequency around which the bands are dispersed. Band 4 will stay at this frequency.
+Spread:		The frequency range between two band peaks.
+Wobble: 	Introduces some slight frequency wobble effect if activated.

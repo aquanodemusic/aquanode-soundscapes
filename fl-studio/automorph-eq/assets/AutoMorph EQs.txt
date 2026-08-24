@@ -1,0 +1,8 @@
+/////// AutoMorph EQs by Aquanode
+
+... is a collection of Presets for FL Studio's Patcher Plugin that use 
+Fruity Parametric EQ Automations to create some interesting Filter Effects
+inspired by Morph EQ from Minimal Audio and E-MU's z-Plane Filter Technology,
+Zynaptiq's Pitchmap Pitch Colorization Techniques and more unique ideas!
+
+Offered for free on aquanode.gumroad.com.
