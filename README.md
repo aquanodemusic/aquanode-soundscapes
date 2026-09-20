@@ -32,6 +32,7 @@ If you want to support me, which I'd highly appreciate but you don't have to, th
 ```
 ├── dexed/                                  DX7 SysEx banks + MIDI + FL Studio project
 ├── fl-studio/
+│   ├── _visualizers/                       A collection of music visualizers for FL Studio
 │   ├── aquanode-resonator/                 Resonator patch, versions V1–V5
 │   ├── automorph-eq/                       9 morphing EQ presets (one folder each)
 │   └── d3lt4-creative-polarity-inverter/   The PASSIVE and ACTIVE versions
